@@ -16,7 +16,22 @@ Driving can either be one of the most relaxing things to do, or the most stressf
 
 6.High-temp rated element adhesive
 
-#SWOT Analysis
+#SWOT Analysis- Strengths, Weakness and Opportunities
+
+##Strengths
+1.Low cost
+
+2.Modular Based Programs
+
+3.Easy to Modify the Temperature values
+
+4.User Friendly
+
+##Weakness
+1.It's only applicable for the countries which having lowest temperture
+
+##Opportunities
+1.It can be implemented by replacing heaterby air conditioners so that it will help in all countries
 
 
 
