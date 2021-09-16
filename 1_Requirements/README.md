@@ -16,9 +16,9 @@ Driving can either be one of the most relaxing things to do, or the most stressf
 
 6.High-temp rated element adhesive
 
-#SWOT Analysis- Strengths, Weakness and Opportunities
+# SWOT Analysis- Strengths, Weakness and Opportunities
 
-##Strengths
+## Strengths
 1.Low cost
 
 2.Modular Based Programs
@@ -27,10 +27,10 @@ Driving can either be one of the most relaxing things to do, or the most stressf
 
 4.User Friendly
 
-##Weakness
+## Weakness
 1.It's only applicable for the countries which having lowest temperture
 
-##Opportunities
+## Opportunities
 1.It can be implemented by replacing heaterby air conditioners so that it will help in all countries
 
 
