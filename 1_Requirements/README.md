@@ -36,12 +36,15 @@ Driving can either be one of the most relaxing things to do, or the most stressf
 # 4W's and 1'H
 
 ## 4W's
-1.What: Passenger seat and heat monitoring system
-2.Where: Used in Automotive Industry
+1.What: Passenger seat and heat monitoring system 
+
+2.Where: Used in Automotive Industry 
+
 3.When: At low Temperature
+
 4.Why: For being healthy
 
-##1'H
+## 1'H
 1.Operates by modifying the temperature
 
 
