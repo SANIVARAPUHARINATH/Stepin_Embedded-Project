@@ -30,3 +30,9 @@ Driving can either be one of the most relaxing things to do, or the most stressf
 ![](https://www.code-inspector.com/project/28789/status/svg)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/765ddd48bc6648e6ada7afceaeafbddc)](https://www.codacy.com/gh/SANIVARAPUHARINATH/Stepin_Embedded-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SANIVARAPUHARINATH/Stepin_Embedded-Project&amp;utm_campaign=Badge_Grade)
+
+### CI and Code Quality
+
+|Build|Cppcheck|
+|:--:|:--:|
+|[![Compile-Linux](https://github.com/SANIVARAPUHARINATH/Embedded-Project/actions/workflows/Compile.yml/badge.svg)](https://github.com/SANIVARAPUHARINATH/Embedded-Project/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/SANIVARAPUHARINATH/Embedded-Project/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/SANIVARAPUHARINATH/Embedded-Project/actions/workflows/CodeQulaity.yml)|
