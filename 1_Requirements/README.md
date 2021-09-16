@@ -5,10 +5,15 @@ Driving can either be one of the most relaxing things to do, or the most stressf
 
 # FEATURES
 1.FMVSS 302 flammability compliant
+
 2.9” x 19” heating elements included
+
 3.Three element trimming locations
+
 4.Insulation protects wires from damage
+
 5.Latching wire harness connectors
+
 6.High-temp rated element adhesive
 
 
